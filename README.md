@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jhonatas de Freitas
+# Jhonatas de Freitas
 
 **`Desenvolvedor FullStack`**
 
