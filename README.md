@@ -6,8 +6,6 @@ Me chamo Jhonatas de Freitas e tenho 24 anos. Concluí o curso de mecatrônica (
 
 Sou apaixonado por tecnologia e desenvolvimento de sistemas. Estou constantemente aprimorando minhas habilidades em programação e buscando aprender cada vez mais para criar soluções eficientes.
 
-Estou em busca de um estágio para aplicar meus conhecimentos, aprender mais e continuar me desenvolvendo como desenvolvedor.
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
