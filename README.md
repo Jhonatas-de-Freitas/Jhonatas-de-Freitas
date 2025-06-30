@@ -2,9 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jhonatas de Freitas e tenho 24 anos. Concluí o curso de mecatrônica (Integrado ao ensino médio) na ETEC Prefeito Alberto Feres. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC-RS (https://portal.pucrs.br) e Tecnologia da Informação na Universidade Federal do Mato Grosso do Sul (UFMS).
+Me chamo Jhonatas de Freitas e tenho 24 anos. Concluí o curso de mecatrônica (Integrado ao ensino médio) na ETEC Prefeito Alberto Feres. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC-RS e Tecnologia da Informação na Universidade Federal do Mato Grosso do Sul (UFMS).
 
-Sou apaixonado por tecnologia e desenvolvimento de sistemas. Estou constantemente aprimorando minhas habilidades em programação e buscando aprender cada vez mais para criar soluções eficientes.
+Sou apaixonado por tecnologia e pelo impacto que o desenvolvimento de sistemas pode causar no dia a dia das pessoas. Gosto de resolver problemas com código e estou sempre buscando aprender novas ferramentas, linguagens e boas práticas para evoluir como desenvolvedor.
+
+Meu foco é criar soluções simples, funcionais e bem feitas. E, claro, aprender algo novo no processo.
 
 ---
 
