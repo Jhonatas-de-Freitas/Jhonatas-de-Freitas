@@ -83,10 +83,10 @@ Meu foco é criar soluções simples, funcionais e bem feitas. E, claro, aprende
  <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Jhonatas-de-Freitas&show_icons=true&theme=tokyonight&count_private=true"
+    src="https://github-readme-stats-topaz-eight-29.vercel.app/api?username=Jhonatas-de-Freitas&show_icons=true&theme=tokyonight&count_private=true"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatas-de-Freitas&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-topaz-eight-29.vercel.app/api/top-langs/?username=Jhonatas-de-Freitas&layout=compact&theme=tokyonight"
   />
 </p>
