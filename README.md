@@ -3,7 +3,7 @@
 💻 Desenvolvedor FullStack focado em Back-end Java  
 🚀 Construindo soluções simples, funcionais e bem estruturadas
 
-Tenho 24 e estou cursando Análise e Desenvolvimento de Sistemas na PUC-RS e Tecnologia da Informação na Universidade Federal do Mato Grosso do Sul (UFMS).
+Tenho 25 e estou cursando Análise e Desenvolvimento de Sistemas na PUC-RS e Tecnologia da Informação na Universidade Federal do Mato Grosso do Sul (UFMS).
 
 Sou apaixonado por tecnologia e pelo impacto que o desenvolvimento de sistemas pode causar no dia a dia das pessoas. Gosto de resolver problemas com código e estou sempre buscando aprender novas ferramentas, linguagens e boas práticas para evoluir como desenvolvedor.
 
