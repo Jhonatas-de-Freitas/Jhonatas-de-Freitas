@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:1f6feb&height=240&section=header&text=Jhonatas%20de%20Freitas&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Desenvolvedor%20de%20Software%20Full%20Stack&descSize=18&descAlignY=63&animation=fadeIn" alt="Jhonatas de Freitas" />
+<picture><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:1f6feb&height=240&section=header&text=Jhonatas%20de%20Freitas&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Desenvolvedor%20de%20Software%20Full%20Stack&descSize=18&descAlignY=63&animation=fadeIn" alt="Jhonatas de Freitas" /></picture>
 
-<a href="https://github.com/Jhonatas-de-Freitas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Back-end+com+Java+e+Spring+Boot;Front-end+com+React+e+TypeScript;Curioso+pra+saber+como+tudo+funciona;Nas+horas+vagas%3A+jogando+%F0%9F%8E%AE" alt="Frases sobre mim" />
-</a>
+<picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Back-end+com+Java+e+Spring+Boot;Front-end+com+React+e+TypeScript;Curioso+pra+saber+como+tudo+funciona;Nas+horas+vagas%3A+jogando+%F0%9F%8E%AE" alt="Frases sobre mim" /></picture>
 
 <p>
   <a href="https://www.linkedin.com/in/jhonatas-de-freitas-1276a321b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -84,4 +82,4 @@ Fora do código, gosto muito de jogos. Acho que boa parte da minha curiosidade p
   <img width="100%" alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake.svg" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:1f6feb&height=100&section=footer" alt="" />
+<picture><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:1f6feb&height=100&section=footer" alt="" /></picture>
