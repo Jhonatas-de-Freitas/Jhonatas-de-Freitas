@@ -31,23 +31,48 @@ Fora do código, gosto muito de jogos. Acho que boa parte da minha curiosidade p
 <div align="center">
 
 <b>Back-end</b><br/>
-<img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,python,fastapi&theme=dark&perline=8" alt="Java, Spring, Maven, Node.js, Python, FastAPI" />
+<a><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" title="Java" /></a>
+<a><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" title="Spring Boot" /></a>
+<a><img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" height="48" alt="Maven" title="Maven" /></a>
+<a><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" title="Node.js" /></a>
+<a><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" title="Python" /></a>
+<a><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI" /></a>
 <br/><br/>
 
 <b>Front-end</b><br/>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&theme=dark&perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Vite, HTML, CSS" />
+<a><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript" /></a>
+<a><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>
+<a><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React" /></a>
+<a><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" title="Next.js" /></a>
+<a><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+<a><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" title="Vite" /></a>
+<a><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" title="HTML" /></a>
+<a><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" title="CSS" /></a>
 <br/><br/>
 
 <b>Dados e mensageria</b><br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,kafka,rabbitmq&theme=dark&perline=8" alt="PostgreSQL, Redis, Supabase, Kafka, RabbitMQ" />
+<a><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" /></a>
+<a><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis" title="Redis" /></a>
+<a><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" title="Supabase" /></a>
+<a><img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Apache Kafka" title="Apache Kafka" /></a>
+<a><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" /></a>
 <br/><br/>
 
 <b>DevOps e observabilidade</b><br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,linux,prometheus,grafana&theme=dark&perline=8" alt="Docker, GitHub Actions, Vercel, Linux, Prometheus, Grafana" />
+<a><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" title="Docker" /></a>
+<a><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" /></a>
+<a><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel" title="Vercel" /></a>
+<a><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" title="Linux" /></a>
+<a><img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="48" height="48" alt="Prometheus" title="Prometheus" /></a>
+<a><img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" height="48" alt="Grafana" title="Grafana" /></a>
 <br/><br/>
 
 <b>Ferramentas</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark&perline=8" alt="Git, GitHub, VS Code, IntelliJ, Postman" />
+<a><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git" /></a>
+<a><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub" /></a>
+<a><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code" /></a>
+<a><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" /></a>
+<a><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" title="Postman" /></a>
 
 </div>
 
