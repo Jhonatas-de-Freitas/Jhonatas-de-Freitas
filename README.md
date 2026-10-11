@@ -78,10 +78,33 @@ Fora do código, gosto muito de jogos. Acho que boa parte da minha curiosidade p
 
 ## Atividade
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/metrics/github_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/metrics/default/0-profile-details.svg" />
+  <img width="100%" alt="Contribuições no último ano" src="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/metrics/default/0-profile-details.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/metrics/github_dark/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/metrics/default/1-repos-per-language.svg" />
+  <img width="49%" alt="Linguagens por repositório" src="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/metrics/default/1-repos-per-language.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/metrics/github_dark/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/metrics/default/2-most-commit-language.svg" />
+  <img width="49%" alt="Linguagens por commit" src="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/metrics/default/2-most-commit-language.svg" />
+</picture>
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake.svg" />
   <img width="100%" alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake.svg" />
 </picture>
+
+<p align="center">Valeu pela visita! Se quiser trocar uma ideia sobre tecnologia (ou sobre jogos), é só chamar.</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:1f6feb&height=100&section=footer" alt="" />
