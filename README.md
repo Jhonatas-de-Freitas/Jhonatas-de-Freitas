@@ -51,12 +51,4 @@ Fora do código, gosto muito de jogos. Acho que boa parte da minha curiosidade p
 
 </div>
 
-## Atividade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake.svg" />
-  <img width="100%" alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake.svg" />
-</picture>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:1f6feb&height=100&section=footer" alt="" />
