@@ -1,56 +1,63 @@
-# Jhonatas de Freitas
+<div align="center">
 
-Desenvolvedor de Software Full Stack. Trabalho com back-end em Java e Spring Boot e faço o front em React e TypeScript.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:1f6feb&height=200&section=header&text=Jhonatas%20de%20Freitas&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20de%20Software%20Full%20Stack&descSize=18&descAlignY=58&animation=fadeIn" alt="Jhonatas de Freitas" />
 
-Gosto de entender como as partes de um sistema conversam: filas, eventos, o que acontece quando um serviço cai no meio do caminho. Os projetos abaixo são um sistema de pedidos que montei para estudar e mostrar isso na prática, do banco até a tela.
+<a href="https://github.com/Jhonatas-de-Freitas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Back-end+com+Java+e+Spring+Boot;Front-end+com+React+e+TypeScript;Curioso+pra+saber+como+tudo+funciona;Nas+horas+vagas%3A+jogando+%F0%9F%8E%AE" alt="Frases sobre mim" />
+</a>
 
-Tenho 25 anos e curso Análise e Desenvolvimento de Sistemas na PUC-RS e Tecnologia da Informação na UFMS.
+<p>
+  <a href="https://www.linkedin.com/in/jhonatas-de-freitas-1276a321b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jhonatas.freitas@icloud.com"><img src="https://img.shields.io/badge/E--mail-1f6feb?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
+</p>
 
-## Projetos
+</div>
 
-Os cinco repositórios formam um sistema só. Cada um roda sozinho com `docker compose up`, e todos têm testes rodando no GitHub Actions.
+## Sobre mim
 
-| Projeto | O que é | Tecnologias |
-|---|---|---|
-| [order-platform](https://github.com/Jhonatas-de-Freitas/order-platform) | Três microsserviços (pedidos, estoque e pagamento) que conversam por eventos. Saga coreografada, outbox transacional, consumidor idempotente e fila de erros. | Java 21, Spring Boot, Kafka, PostgreSQL |
-| [api-gateway](https://github.com/Jhonatas-de-Freitas/api-gateway) | Porta de entrada do sistema: login com JWT, limite de requisições por usuário e circuit breaker. | Spring Cloud Gateway, Keycloak, Redis, Resilience4j |
-| [notification-service](https://github.com/Jhonatas-de-Freitas/notification-service) | Notificações por e-mail, SMS e push, com fila por canal, novas tentativas e agendamento. | Java 21, Spring Boot, RabbitMQ, PostgreSQL |
-| [order-dashboard](https://github.com/Jhonatas-de-Freitas/order-dashboard) | Painel para acompanhar os pedidos em tempo real. Tem um modo de demonstração que roda direto no navegador. | React, TypeScript, Vite, Tailwind |
-| [order-analytics](https://github.com/Jhonatas-de-Freitas/order-analytics) | Lê os eventos do Kafka e transforma em números: faturamento, cancelamentos, produtos mais vendidos. | Python, FastAPI, PostgreSQL |
+Sou apaixonado por tecnologia desde sempre. Não me basta ver funcionando: eu quero saber o que acontece por trás da tela, como os dados andam de um lugar para o outro e o que faz um sistema continuar de pé quando alguma coisa dá errado.
 
-Para ver funcionando sem instalar nada: [demonstração do painel](https://jhonatas-de-freitas.github.io/order-dashboard/).
+Hoje trabalho como desenvolvedor de software, do banco de dados até a interface. No back-end meu foco é Java com Spring Boot, e no front uso React e TypeScript.
 
-```mermaid
-flowchart LR
-    painel[order-dashboard] --> gateway[api-gateway]
-    gateway --> plataforma[order-platform]
-    gateway --> notificacoes[notification-service]
-    gateway --> metricas[order-analytics]
-    plataforma -- eventos no Kafka --> notificacoes
-    plataforma -- eventos no Kafka --> metricas
-```
+Fora do código, gosto muito de jogos. Acho que boa parte da minha curiosidade por tecnologia veio daí.
+
+- 💼 Desenvolvedor de software full stack
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC-RS e Tecnologia da Informação na UFMS
+- 🌱 Estudando arquitetura de sistemas distribuídos e mensageria
+- 🎮 Nas horas vagas, jogando
+- 📫 Me chama no LinkedIn ou por e-mail
 
 ## Tecnologias
 
-<p>
-  <img alt="Java" title="Java" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Spring" title="Spring Boot" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img alt="Kafka" title="Apache Kafka" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
-  <img alt="RabbitMQ" title="RabbitMQ" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
-  <img alt="PostgreSQL" title="PostgreSQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="Redis" title="Redis" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-  <img alt="Docker" title="Docker" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="React" title="React" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Python" title="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="FastAPI" title="FastAPI" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-  <img alt="Git" title="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub Actions" title="GitHub Actions" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="140"><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,python,fastapi&theme=dark" alt="Java, Spring, Maven, Node.js, Python, FastAPI" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Vite, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Dados e mensageria</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,supabase,kafka,rabbitmq&theme=dark" alt="PostgreSQL, Redis, Supabase, Kafka, RabbitMQ" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,linux,prometheus,grafana&theme=dark" alt="Docker, GitHub Actions, Vercel, Linux, Prometheus, Grafana" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" alt="Git, GitHub, VS Code, IntelliJ, Postman" /></td>
+  </tr>
+</table>
 
-Também uso no dia a dia: Next.js, Node.js, Supabase, Vercel, Prometheus e Grafana.
+## Atividade
 
-## Contato
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake.svg" />
+  <img width="100%" alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Jhonatas-de-Freitas/Jhonatas-de-Freitas/output/snake.svg" />
+</picture>
 
-- LinkedIn: [jhonatas-de-freitas](https://www.linkedin.com/in/jhonatas-de-freitas-1276a321b)
-- E-mail: jhonatas.freitas@icloud.com
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:1f6feb&height=100&section=footer" alt="" />
